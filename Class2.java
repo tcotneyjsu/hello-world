@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Travis Cotney
  */
 public class Class2 {
     private void f1() {
